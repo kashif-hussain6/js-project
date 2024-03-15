@@ -33,6 +33,24 @@ console.log("a =",a)
      i++;
    }
    console.log(text);
+  //  logical opperator////
+
+
+  let p =  6;
+  let q =5;
+  let con1= a<b; //false
+  let con2 = b==6;//true
+  console.log("con1 && con2 ="    , a<b &&a===b) 
+
+
+  let f = 30;
+  let g = 20;
+
+  let con3 = f<g;
+  let con4 = f>g;
+  console.log("con1 || con2 =" , f<g || f>g)
+
+  
 
 
 
